@@ -1,2 +1,2 @@
-# Emp-rio-da-Cerveja
+# Empório da Cerveja
 Projeto Empório da Cerveja em ReactJS
